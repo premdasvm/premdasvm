@@ -17,8 +17,7 @@
 - etc...
 
 ## 📚 Learning
-- [supabase](https://supabase.com)
-- Linux
+- [Go](https://go.dev/)
 
 ### 🤝  Let's stay connected!
 
