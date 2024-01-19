@@ -17,7 +17,7 @@
 - etc...
 
 ## 📚 Learning
-- [Go](https://go.dev/)
+- [Svelte](https://svelte.dev/)
 
 ### 🤝  Let's stay connected!
 
