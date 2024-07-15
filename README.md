@@ -16,9 +16,6 @@
 - Play videogames
 - etc...
 
-## 📚 Learning
-- [Svelte](https://svelte.dev/)
-
 ### 🤝  Let's stay connected!
 
 <p align="center">
